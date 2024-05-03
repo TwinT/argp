@@ -1,0 +1,16 @@
+# Compiled object files
+*.o
+
+# Executable files
+step*
+!step*.c
+
+# Build directory
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+dependencies/
